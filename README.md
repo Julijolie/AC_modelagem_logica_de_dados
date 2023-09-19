@@ -3,6 +3,7 @@ trabalho de avaliação continuada - engenharia da computação
 
 # 1.	Realize o mapeamento do modelo de entidade-relacionamento a seguir para o modelo relacional. Apresente (a) o modelo lógico produzido via MySQL Workbench e (b) os passos do mapeamento que foram necessários para chegar no modelo relacional. 
 
+
 (IMAGEM DO MODELO CONCEITUAL NO ARQUIVO ACIMA)
 (RESOLUÇÃO COM DIAGRAMA DO MODELO LÓGICO NO ARQUIVO ACIMA)
 _____________________________________________________________________________________________________________
