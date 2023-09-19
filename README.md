@@ -5,6 +5,7 @@ trabalho de avaliação continuada - engenharia da computação
 
 
 (IMAGEM DO MODELO CONCEITUAL NO ARQUIVO ACIMA)
+
 (RESOLUÇÃO COM DIAGRAMA DO MODELO LÓGICO NO ARQUIVO ACIMA)
 _____________________________________________________________________________________________________________
 # 2.	Com base no modelo relacional criado na questão anterior, responda o que se pede:
